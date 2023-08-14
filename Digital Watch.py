@@ -1,4 +1,4 @@
-#making digital watchcfor my friend
+#making digital watch for my friend
 
 from tkinter import *
 from tkinter import ttk
